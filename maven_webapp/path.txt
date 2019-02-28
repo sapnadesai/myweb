@@ -1,0 +1,4 @@
+https://github.com/sapnadesai/sapna.git
+
+
+mvn install:install-file -Dfile=D:\ojdbc8.jar -DgroupId=com.oracle -DartifactId=ojdbc7 -Dversion=12.1.0 -Dpackaging=jar
