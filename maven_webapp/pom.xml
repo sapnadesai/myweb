@@ -6,9 +6,9 @@
   <packaging>war</packaging>
   <dependencies>
   	<dependency>
-  		<groupId>com.oracle</groupId>
-  		<artifactId>ojdbc8</artifactId>
-  		<version>11.2.0</version>
+  		<groupId>javax.servlet</groupId>
+  		<artifactId>javax.servlet-api</artifactId>
+  		<version>3.1.0</version>
   	</dependency>
   </dependencies>
 </project>
